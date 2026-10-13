@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native / Expo
+client/.expo/
+client/ios/
+client/android/
+client/dist/
+client/.env
+
+# Server
+server/node_modules/
+server/.env
+server/dist/
+
+# OS
+.DS_Store
+Thumbs.db   
